@@ -1,0 +1,32 @@
+#header{
+	background-color:#ecf0f1;
+}
+
+.btn-success{
+	margin-top: 20px;
+	margin-bottom:20px;
+}
+
+#results{
+	background-color:#bdc3c7;
+}
+
+.input-group-addon{
+	width:100px;
+}
+
+.input-group{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+input:first-letter{
+	text-transform: uppercase;;
+}
+
+img{
+	border-style: dashed;
+	border: 2px;
+	border-color; blue;
+	margin:20px;
+}
